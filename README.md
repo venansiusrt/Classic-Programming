@@ -1,1 +1,1 @@
-# Classic-Programming
+# Classical-Programming
